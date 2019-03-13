@@ -18,6 +18,7 @@ Focal areas are grouped under themes, and headers are somewhat linear -- but thi
 1. Finding your niche
 1. Finding your perspective
 1. Beginner-friendly talk formats
+1. There's always room for the "Intro to..." talk
 
 ### How should I pitch my talk?
 
