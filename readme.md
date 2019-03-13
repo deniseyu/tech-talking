@@ -22,8 +22,9 @@ Focal areas are grouped under themes, and headers are somewhat linear -- but thi
 ### How should I pitch my talk?
 
 1. Writing the talk proposal
-1. Writing your speaker biography
+1. Speaker biography
 1. "Notes for Reviewers"
+1. Coping with rejection
 
 ### How do I create the presentation?
 
