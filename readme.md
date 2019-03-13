@@ -14,7 +14,7 @@ Focal areas are grouped under themes, and headers are somewhat linear -- but thi
 
 ### What should I speak about?
 
-1. Ideation & Brainstorming
+1. [Ideation & Brainstorming](https://github.com/deniseyu/tech-talking/blob/master/what-to-speak-about/ideation-and-brainstorming.md)
 1. Finding your niche
 1. Finding your perspective
 1. Beginner-friendly talk formats
