@@ -28,26 +28,29 @@ Focal areas are grouped under themes, and headers are somewhat linear -- but thi
 ### How do I create the presentation?
 
 1. Organising your thoughts
+1. Research
 1. Designing slides
 1. Accessibility
+1. Speaker notes
 1. Soliciting feedback
 1. Pacing
 
 ### How do I practice my presentation?
 
 1. Deliberate practice
-1. Presenting to your dog
+1. Presenting to your dog/cat/Pikachu
 1. Presenting to a camera
 1. Creating safe feedback environments
-1. Understand how to selectively take feedback on board
+1. Selectively taking feedback on board
 1. Making the most of dry runs
 
 ### How do I prepare for the big day?
 
-1. A/V setup tips
+1. Hardware setup tips
 1. Communicating with organisers
 1. Physical comfort
 1. Strategic "Yes"-people
+1. Recovery & Self-care
 
 ### Promote your talk afterward
 
@@ -55,9 +58,10 @@ Focal areas are grouped under themes, and headers are somewhat linear -- but thi
 1. Social media
 1. Build a speaker portfolio
 
-### Miscellaneous tips
+### Miscellaneous
 
 1. Building relationships with local conference organisers
 1. Lending your privilege
 1. Honorariums & stipends
+1. Pairing on talks
 
