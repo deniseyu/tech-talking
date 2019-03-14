@@ -22,7 +22,7 @@ Focal areas are grouped under themes, and headers are somewhat linear -- but thi
 
 ### How should I pitch my talk?
 
-1. Writing the talk proposal
+1. [Writing the talk proposal](https://github.com/deniseyu/tech-talking/blob/master/pitching-your-talk/writing-proposals.md)
 1. Speaker biography
 1. "Notes for Reviewers"
 1. Coping with rejection
