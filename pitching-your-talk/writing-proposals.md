@@ -39,6 +39,9 @@ Maybe you built a side project using a certain programming language. What is the
 
 ## Resources
 
-I created [this deck](https://docs.google.com/presentation/d/1vd5OO1lblAxt83GENwsPRnnu76QiPaja0JLNktxtdJM/edit?usp=sharing) to help Pivots submit talks to SpringOne Platform.
-
-With the DevOpsDays Toronto organisers, I also created [this worksheet](https://docs.google.com/document/d/1mUUHnVYbhVymfoodlleh4S0ptTXlFiPrP2HuQm9967I/edit?usp=sharing) to guide you through the writing process.
+* I created [deck](https://docs.google.com/presentation/d/1vd5OO1lblAxt83GENwsPRnnu76QiPaja0JLNktxtdJM/edit?usp=sharing) to help Pivots submit talks to SpringOne Platform
+* A [worksheet](https://docs.google.com/document/d/1mUUHnVYbhVymfoodlleh4S0ptTXlFiPrP2HuQm9967I/edit?usp=sharing) to guide you through the writing process
+* "How to get your submission accepted at NDC London" by Chris O'Dell: [Video](https://www.youtube.com/watch?v=Ah13fl6VZag&feature=youtu.be)
+* "Why your excellent talk was rejected" by Sarah Gray: [Blog](https://www.promptworks.com/blog/why-your-excellent-talk-was-rejected)
+* "What your conference proposal is missing" by Sarah Mei: [Blog](http://www.sarahmei.com/blog/2014/04/07/what-your-conference-proposal-is-missing/)
+* [Speakerline.io](http://speakerline.io), a resource by Nadia Odunayo
