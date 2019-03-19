@@ -41,7 +41,7 @@ Focal areas are grouped under themes, and headers are somewhat linear -- but thi
 
 1. Deliberate practice
 1. Presenting to your dog/cat/Pikachu
-1. Presenting to a camera
+1. [Presenting to a camera](https://github.com/deniseyu/tech-talking/blob/master/practicing/presenting-to-a-camera.md)
 1. Creating safe feedback environments
 1. Selectively taking feedback on board
 1. Making the most of dry runs
